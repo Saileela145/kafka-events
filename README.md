@@ -47,6 +47,8 @@ Producer → Kafka (Redpanda Cloud) → Consumer
 * Produced: {'event_id': 3, 'user': 'user_3', 'action': 'click', 'timestamp': 1768149339.939994}
 * Produced: {'event_id': 4, 'user': 'user_4', 'action': 'click', 'timestamp': 1768149341.381874}
 * Produced: {'event_id': 0, 'user': 'user_0', 'action': 'click', 'timestamp': 1768149342.6957202}
+* <img width="1920" height="1020" alt="Screenshot 2026-01-11 220442" src="https://github.com/user-attachments/assets/9f414614-60e2-4c74-afd7-f68641c00d0a" />
+
 
 **consumer**
 
@@ -57,5 +59,7 @@ Producer → Kafka (Redpanda Cloud) → Consumer
 * Consumed: {'event_id': 4, 'user': 'user_4', 'action': 'click', 'timestamp': 1768149091.6241007}
 * Consumed: {'event_id': 0, 'user': 'user_0', 'action': 'click', 'timestamp': 1768148990.196704}
 * Consumed: {'event_id': 2, 'user': 'user_2', 'action': 'click', 'timestamp': 1768148997.202975}
+* <img width="1920" height="1020" alt="Screenshot 2026-01-11 220628" src="https://github.com/user-attachments/assets/e28b61ba-9c90-4711-944c-1f356de24126" />
+
 
 
