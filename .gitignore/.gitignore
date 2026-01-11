@@ -1,0 +1,6 @@
+kafka_2.13-3.7.0/
+*.sh
+*.bat
+*.zip
+*.tgz
+*.log
