@@ -1,7 +1,6 @@
 from confluent_kafka import Producer
 import time
 import json
-
 bootstrap_servers = "d5hrmat3g3kbe68ve3gg.any.us-east-1.mpx.prd.cloud.redpanda.com:9092"
 username = "producer"
 password = "kafka1234"
